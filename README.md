@@ -16,7 +16,7 @@ Fecha entrega: 13 de Octubre del 2023 <br> <br>
  <img align="left" src="practica11_200668/images/mov1.jpg?raw=true" alt="Imagen 1" width="200";/>
 <img align="left" src="practica11_200668/images/mov2.jpg?raw=true" alt="Imagen 2"  width="200" />
 </div>
-<br><br>
+
 <div style="display: flex; justify-content:">
  <img align="left" src="practica11_200668/images/tv1.jpg?raw=true" alt="Imagen 1" width="200";/>
 <img align="left" src="practica11_200668/images/tv2.jpg?raw=true" alt="Imagen 2"  width="200" />
